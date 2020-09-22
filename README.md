@@ -10,3 +10,5 @@
    
     $ ./rom-compress.sh    
    
+## How to extract?
+    cat *.tar.xz* | tar -xvJf - -i
