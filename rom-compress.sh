@@ -1,8 +1,8 @@
 #!/bin/bash
 
-ROMNAME=lineage-16.0
-LINK=https://github.com/LineageOS/android
-BRANCH=lineage-16.0
+ROMNAME=aospa
+LINK=https://github.com/aospa/manifest
+BRANCH=ruby
 
 
 echo -e "# Installing necessary packages..."
